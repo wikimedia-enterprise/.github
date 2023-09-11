@@ -1,6 +1,6 @@
-# Wikimedia Enterprise 
+# Wikimedia Enterprise
 
-This repo is informational only to point to Wikimedia Enterprise official assets.
+This repo is informational only to point to official Wikimedia Enterprise assets.
 
 
 **Official Website:** [enterprise.wikimedia.com](https://enterprise.wikimedia.com)
@@ -10,7 +10,7 @@ This repo is informational only to point to Wikimedia Enterprise official assets
 **Updates & News:** https://enterprise.wikimedia.com/news/
 
 **Meta wiki page:** https://meta.wikimedia.org/wiki/Wikimedia_Enterprise
-That includes FAQ, operating principles, the team, and a community essay.
+That includes FAQ, operating principles, the team, and community essay.
 
 **Media wiki page:** https://www.mediawiki.org/wiki/Wikimedia_Enterprise
 That includes updates, and development workboard.
@@ -18,3 +18,6 @@ That includes updates, and development workboard.
 **Development Tickets:** https://phabricator.wikimedia.org/tag/wikimedia_enterprise/
 
 **Codebase:** coming soon; currently at [@wikimedia/OKAPI](https://github.com/wikimedia/OKAPI)
+
+## Official SDKs
+* [GO](https://github.com/wikimedia-enterprise/wme-sdk-go)
