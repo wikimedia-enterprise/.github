@@ -10,7 +10,7 @@ That includes FAQ, operating principles, the team, and community essay.
 * **Media wiki page:** https://www.mediawiki.org/wiki/Wikimedia_Enterprise  
 That includes updates, and development workboard.
 * **Development Tickets:** https://phabricator.wikimedia.org/tag/wikimedia_enterprise/
-* **Codebase:** coming soon; currently at [@/OKAPI](https://github.com/wikimedia-enterprise/okapi)
+* **Codebase:** https://github.com/wikimedia-enterprise/wikimedia-enterprise
 
 
 ## Official SDKs
